@@ -1,4 +1,4 @@
-# <h1> Forest Scene - 2D OpenGL Graphics Project <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Parachute.png" alt="Parachute" width="80" height="80" /> </h1>
+# <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Parachute.png" alt="Parachute" width="80" height="80"/> Forest Scene - 2D OpenGL Graphics Project </h1>
 
 <img width="1920" height="1040" alt="Image" src="https://github.com/kazihabiba201/forest-scene/blob/main/assets/forest_scene.png" />
 A beautiful and interactive computer graphics application built with **OpenGL** and **GLUT**, simulating a **2D forest environment**. This project visually represents various forest elements using geometric transformations and creative rendering.
